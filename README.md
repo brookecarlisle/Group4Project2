@@ -19,6 +19,8 @@ From the year 1990-2010, we want to discover when there are optimal living condi
 
 <img width="633" alt="Screenshot 2024-04-29 at 11 29 52 AM" src="https://github.com/brookecarlisle/Group4Project2/assets/163200089/6701a2da-6370-459f-bbc2-1dca44b681a7">
 
+It's crucial to investigate the optimal living conditions for Largemouth bass from 1990 to 2010 to ensure their survivability and the health of their habitats. The metrics of pH level, salinity (>0.5ppt), and dissolved oxygen (8-12 mg/L) provide insights into the habitat suitability for Largemouth bass. If these conditions fall within the specified ranges, it indicates a favorable environment for their growth and reproduction. By tracking these metrics over the years, we can identify trends and potential threats to their habitats, allowing us to implement conservation measures to maintain healthy populations of Largemouth bass.
+
 
 ## Question 2:
 Healthy aquatic ecosystems rely on the stability of various factors to support thriving aquatic life. We aim to explore the relationship between Dissolved Oxygen levels and Air Temperature to grasp their combined impact on water body conditions. What data can we extract from the correlation between Dissolved Oxygen and Air Temperature? Moreover, how does the trend line portray the relationship between these variables and what significance does it carry for evaluating the health of ecosystems?
