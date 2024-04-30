@@ -11,6 +11,8 @@
 5. Connor Walker https://github.com/connorwalker33
 
 ## DataSet: https://catalog.data.gov/dataset/water-quality-data-41c5e
+We did not have to make any changes to or manipulate the dataset in any way.
+
 
 ## Features of Data Set:
 
