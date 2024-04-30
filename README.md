@@ -11,6 +11,28 @@
 5. Connor Walker https://github.com/connorwalker33
 
 ## DataSet: https://catalog.data.gov/dataset/water-quality-data-41c5e
+
+## Features of Data Set:
+
+Columns feature: (Water Quality Data)
+1. Site_Id: Identifier for the sampling site.
+2. Unit_Id: Identifier for the sampling unit or device.
+3. Read_Date: The date on which the sample was taken.
+4. Salinity (ppt): Salinity concentration measured in parts per thousand.
+5. Dissolved Oxygen (mg/L): The concentration of oxygen dissolved in the water measured in milligrams per liter.
+6. pH (standard units): The pH level of the water.
+7. Secchi Depth (m): The clarity of water measured in meters using a Secchi disk.
+8. Water Depth (m): The depth of the water measured in meters.
+9. Water Temp (°C): The temperature of the water measured in degrees Celsius.
+10. Air Temp-Celsius: The temperature of the air measured in degrees Celsius.
+11. Air Temp (°F): The temperature of the air measured in degrees Fahrenheit.
+12. Time (24:00): The time at which sampling was done in a 24-hour format.
+13. Field_Tech: Identifier or name of the field technician.
+14. DateVerified: The date on which the data was verified.
+15. WhoVerified: The identifier or name of the person who verified the data.
+16. AirTemp (C): The air temperature in degrees Celsius, which seems to be recorded again and might be a redundancy.
+17. Year: The year in which the sampling was done.
+
 ## Importance of Data Set:
 We chose to analyze a dataset portraying water quality across diverse water sites spanning from 1889 to 2019. Delving into this dataset allows us to discern trends and fluctuations in water quality over the decades. This analysis carries significance in understanding the correlation between water quality and the survival of fish species. By surveying changes in water quality over time, we can under its direct influence on the habitat and ecosystem health crucial for sustaining fish populations.
 
@@ -19,6 +41,9 @@ From the year 1990-2010, we want to discover when there are optimal living condi
 
 <img width="633" alt="Screenshot 2024-04-29 at 11 29 52 AM" src="https://github.com/brookecarlisle/Group4Project2/assets/163200089/6701a2da-6370-459f-bbc2-1dca44b681a7">
 
+We utilized the data to pinpoint the precise conditions essential for the survival of fish species like the largemouth bass. This information proves invaluable for understanding the environmental parameters conducive to their existence. Specifically, we focused on factors such as dissolved oxygen levels, salinity, and pH, all of which must fall within certain ranges for the largemouth bass to thrive. The graph presented here illustrates data from the years 1990 to 2010 within the Bay area, showcasing only those years where all three criteria were met.
+
+From our analysis, it becomes evident that the largemouth bass population faced challenges beyond 2002 as their habitat conditions shifted unfavorably. Consequently, they were compelled to seek alternative environments conducive to sustaining their livelihoods elsewhere in the water system.
 
 
 
